@@ -2,7 +2,6 @@
 
 enforce call specified function or rethrow inside catch clause.
 
-[![eslint-plugin-catch-call-function](https://nodei.co/npm/eslint-plugin-catch-call-function.png)](https://npmjs.org/package/eslint-plugin-catch-call-function)
 [![NPM version](https://badge.fury.io/js/eslint-plugin-catch-call-function.png)](http://badge.fury.io/js/eslint-plugin-catch-call-function)
 [![NPM downloads](http://img.shields.io/npm/dm/eslint-plugin-catch-call-function.svg)](https://npmjs.org/package/eslint-plugin-catch-call-function)
 [![Build Status](https://travis-ci.org/yiminghe/eslint-plugin-catch-call-function.svg?branch=master)](https://travis-ci.org/yiminghe/eslint-plugin-catch-call-function)
@@ -22,12 +21,6 @@ module.exports = {
 
 
 ## rules
-
-### catch-call-function/catch-call-function
-
-在
-
-#### Options
 
 correct:
 
