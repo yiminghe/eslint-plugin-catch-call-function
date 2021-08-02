@@ -31,7 +31,7 @@ ruleTester.run("catch-call-function", rule, {
       options: [['x', 'throw']],
       errors: [
         {
-          message: 'Must call function: x2 or rethrow exception inside catch',
+          message: 'Must call function: x or rethrow exception inside catch',
         }
       ]
     }
