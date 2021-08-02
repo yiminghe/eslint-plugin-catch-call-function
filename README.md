@@ -4,7 +4,7 @@ enforce call specified function or rethrow inside catch clause.
 
 [![NPM version](https://badge.fury.io/js/eslint-plugin-catch-call-function.png)](http://badge.fury.io/js/eslint-plugin-catch-call-function)
 [![NPM downloads](http://img.shields.io/npm/dm/eslint-plugin-catch-call-function.svg)](https://npmjs.org/package/eslint-plugin-catch-call-function)
-[![Build Status](https://travis-ci.org/yiminghe/eslint-plugin-catch-call-function.svg?branch=master)](https://travis-ci.org/yiminghe/eslint-plugin-catch-call-function)
+[![Build Status](https://travis-ci.com/yiminghe/eslint-plugin-catch-call-function.svg?branch=main)](https://travis-ci.com/github/yiminghe/eslint-plugin-catch-call-function)
 
 ## usage
 .eslintrc.js
