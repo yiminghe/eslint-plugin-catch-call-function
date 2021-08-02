@@ -20,17 +20,15 @@ ruleTester.run("catch-call-function", rule, {
   ]
 });
 
-
-
 ruleTester.run("catch-call-function", rule, {
   valid: [{
     code: "try{}catch(e){ throw e; }",
-    options: [['x','throw']]
+    options: [['x', 'throw']]
   }],
   invalid: [
     {
       code: "try{}catch(e){z()}",
-      options: [['x','throw']],
+      options: [['x', 'throw']],
       errors: [
         {
           message: 'Must call function: x or rethrow exception inside catch',
